@@ -3,7 +3,8 @@
 ## Set up :
 debian based distros: 
 ```
-  sudo apt install mininet python3-pip python3-venv -y
+  sudo apt update && sudo apt upgrade -y
+  sudo apt install mininet python3-pip python3-venv sudo apt install openvswitch-switch -y
   git clone https://github.com/AC-Armitage/CSTC_SDN-AI-Routing
   cd CSTC_SDN-AI-Routing/
   python3 -m venv sdn
