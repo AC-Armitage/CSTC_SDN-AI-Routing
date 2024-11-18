@@ -12,7 +12,7 @@ debian based distros:
   pip install -r requirements.txt
   deactivate
 ```
-## Lunching the test topology:
+## Launching the Test Topology:
 Topology:
 !["Test toplogy"](images/test-topology.png)
 How to run:
